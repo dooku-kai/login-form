@@ -1,0 +1,88 @@
+body {
+    background-image : url(https://w0.peakpx.com/wallpaper/399/422/HD-wallpaper-chill-vibes-3440-1440-r-chill-art.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Calibri;
+  }
+input {
+    width: 80%;
+    border: none;
+    border-bottom: 2px solid #007bff;
+    outline: none;
+    font-size: 18px;
+    margin-left: 20px;
+  }
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: lighter;
+    padding-bottom: 16px;
+  }
+  
+  h4 {
+    font-weight: 600;
+    font-size: 22px;
+    padding-bottom: 4px;
+    margin-left: 20px;
+  }
+  
+  input {
+    width: 80%;
+    border: none;
+    border-bottom: 2px solid white;
+    outline: none;
+    font-size: 18px;
+    margin-left: 20px;
+    background-color:rgba(0, 0, 0, 0.333);
+  }
+  
+  input:focus {
+    background-color:black;
+  }
+  
+  button {
+    width: 100%;
+    border: none;
+    font-size: 22px;
+    color: #ffff;
+    padding: 5px 0px;
+    margin: 10px 0px 25px 0px;
+    background-color: black;
+    cursor: pointer;
+    border-radius: 0%;
+    transition-duration:2s;
+    transform: translate(Y);
+  }
+  
+  .alert {
+    font-size: 19px;
+    cursor: pointer;
+    font-style: italic;
+    justify-content: center;
+    color: white;
+    display: flex;
+  }
+  
+ 
+  
+  .box {
+    width: 500px;
+    background-color:rgba(0, 0, 0, 0.333);
+    box-shadow: 6px 5px 6px 6px rgba(0, 0, 0, 0.16);
+    border-radius: 12px;
+    padding: 10px 20px;
+    color: #030303;
+  }
+
+  .container {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height: 750px;
+  }
+  
